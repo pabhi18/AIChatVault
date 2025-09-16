@@ -1,0 +1,14 @@
+fastapi
+pydantic[email]
+uvicorn
+sqlalchemy
+alembic
+transformers
+databases
+torch
+python-jose
+python-dotenv
+psycopg2-binary
+passlib
+bcrypt
+python-multipart
