@@ -1,6 +1,6 @@
 # AIChatVault 
 
-A secure and intelligent chat platform with robust authentication and administrative controls.
+A secure chat platform with robust authentication and administrative controls.
 
 ## Features
 
